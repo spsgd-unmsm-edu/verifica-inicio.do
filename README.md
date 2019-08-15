@@ -4,6 +4,6 @@
     <title>Hola Mundo en HTML</title>
   </head>
   <body>
-    <h1>CON FE NO ME VOY PRESO, PAULO ME SACAS DE LA CARCEL CTM EN TI CONFIO </h1>
+    <h1>BEBÉ AYUDAME A HACER UNA PAGINA IDÉNTICA, NO QUIERO IRME PRESO :C </h1>
   </body>
 </html>

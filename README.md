@@ -1,4 +1,3 @@
-# verifica-inicio.do
 <!doctype html>
 <html>
   <head>
